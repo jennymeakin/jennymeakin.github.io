@@ -1,0 +1,10 @@
+  p { 
+  background-color: green;
+  font-family: Arial, sans-serif;
+  color: yellow;
+  font-size: 16px;
+}
+h1 {
+  color: blue;
+  text-align: center;
+}
