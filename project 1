@@ -1,1 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Rain City Food Share</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+      <header>
+      <section class="navigation">
+        <nav>
+          <div class="nav-right">
+            <a href="index.html"><img src="images-media/logo.png" alt="Our logo" /></a>
+          </div>
+          <div class="nav-left">
+            <a href="index.html">Home</a>
+            <a href="about.html">About Us</a>
+            <a href="contact.html">Contact</a>
+            <a href="blog.html">Blog</a>
+            <a href="funfact.html">Fun Fact</a>
+          </div>
+        </nav>
+      </section>
+      <section class="main-hero">
+        <h1>RAIN CITY FOOD SHARE</h1>
+<a href="contact.html" class="cta-button">Contact Us</a>
+      </section>
+    </header>
+  <main>
+    
+<h2>Our Mission Statement</h2>
+    <p>
+        Our mission is to provide consistent access to fresh, nutritious food for at-risk youth, elders, low-income households, and marginalized communities across Greater Vancouver.  We believe that healthy meals should not be a privilege but a right. By prioritizing fresh produce, poultry, and other wholesome foods, we strive to surpass traditional food bank models, offering healthier and more sustainable options. We acknowledge that the escalating cost of nutritious food poses barriers for many families, and we are committed to bridging that gap with dignity, compassion, and community solidarity.
+    </p>
+    
+    <h2>About Rain City Food Share</h2>
+
+    <p>
+      Rain City Food Share is a non-profit organization based in Greater Vancouver that helps provide fresh and healthy food to people who need it most. We focus on supporting at-risk youth, elders, low-income families, and marginalized communities. Our main goal is to make sure everyone has access to nutritious meals, because eating healthy shouldn’t be a privilege, it should be a right.
+    </p>
+
+    <p>
+      Unlike traditional food banks that mostly hand out canned goods, we want to offer fresh produce, poultry, and other wholesome foods. We know that food insecurity in Vancouver isn’t about there not being enough food, it’s about people not being able to afford it.
+    </p>
+
+    <p>
+      Our project also looks at what we can learn from food programs around the world, like community food hubs, school meal programs, and food recovery systems that stop good food from going to waste. By using ideas like these, we hope to build a stronger and fairer local food system that helps everyone, now and in the future.
+    </p>
+    
+        <img src="image-media/raincity-food.jpeg" alt="raincity" width="50" height="80"> </img>
+    
+  </main>
+ <footer>
+      <h2>Footer</h2>
+      <section class="footer-contents">
+        <section class="left-footer">
+          <ul>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="#">Location</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a href="funfact.html">Funfact</a></li>
+            <li><a href="index.html">Home page</a></li>
+          </ul>
+        </section>
+        <section class="social-media-links">
+          <ul>
+            <li>
+              <a href="#"
+                ><img src="images-media/linkedin.png" alt="linkdin icon" width="41" height="41"></a
+              >
+            </li>
+            <li>
+              <a href="#"
+                ><img src="images-media/factbook.png" alt="facebook icon" width="41" height="41"> </a
+              >
+            </li>
+            <li>
+              <a href="#"
+                ><img src="images-media/instagram.png" alt="instagram icon"
+                width="41" height="41"></a
+              >
+            </li>
+          </ul>
+          <div class="footer-text">
+            <p>
+              Thisemailisfake@gmail.com <br />
+              © 2025 Rain City Food Care. All rights reserved.
+            </p>
+          </div>
+        </section>
+      </section>
+    </footer>
+ 
+</body>
+</html>
 
